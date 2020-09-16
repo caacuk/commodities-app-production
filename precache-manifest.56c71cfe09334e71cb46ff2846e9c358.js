@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "458e292e4c2559781e6bad46d9127daa",
+    "revision": "dfb7c4d9b49b7b023f6e357885b5ae18",
     "url": "/commodities-app-production/index.html"
   },
   {
-    "revision": "880dad10dfa595dcff49",
+    "revision": "c26b601f1246f5006a99",
     "url": "/commodities-app-production/static/css/2.db4cfb16.chunk.css"
   },
   {
-    "revision": "0e3022189edc8d2889be",
+    "revision": "f85b056ee12851797072",
     "url": "/commodities-app-production/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "880dad10dfa595dcff49",
-    "url": "/commodities-app-production/static/js/2.f1476e75.chunk.js"
+    "revision": "c26b601f1246f5006a99",
+    "url": "/commodities-app-production/static/js/2.d33c6973.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/commodities-app-production/static/js/2.f1476e75.chunk.js.LICENSE.txt"
+    "url": "/commodities-app-production/static/js/2.d33c6973.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e3022189edc8d2889be",
-    "url": "/commodities-app-production/static/js/main.ff525eaf.chunk.js"
+    "revision": "f85b056ee12851797072",
+    "url": "/commodities-app-production/static/js/main.006be9e7.chunk.js"
   },
   {
     "revision": "a20e2026a36f0234a3da",
